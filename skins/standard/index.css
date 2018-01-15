@@ -140,25 +140,19 @@
 
     #enter_bug
     {
-        background: url(../../images/bugzilla-papericon.png) no-repeat;
+        background: url(../../images/document-edit.png) no-repeat;
     }
     #query
     {
-        background: url(../../images/bugzilla-magnifier.png) no-repeat;
+        background: url(../../images/system-search.png) no-repeat;
     }
     #account
     {
-        background: url(../../images/bugzilla-person-alternate.png) no-repeat;
+        background: url(../../images/list-add-user.png) no-repeat;
         margin-right: 0;
-    }
-    #docs
-    {
-        background: url(../../images/bugzilla-questionmark2.png) no-repeat !important;
     }
 
     #page-index .intro { display: inline; }
-
-    #docs { background: url(../standard/index/help.png) no-repeat; }
 
     .bz_common_actions
     {
